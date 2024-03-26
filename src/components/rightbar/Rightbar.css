@@ -37,3 +37,17 @@
    margin: 0;
    list-style: none;
 }
+
+.rightbarTitle {
+   font-size: 18px;
+   font-weight: 500;
+   margin-bottom: 10px;
+}
+
+
+.rightbarFollowingImg {
+   width: 100px;
+   height: 100px;
+   object-fit: cover;
+   border-radius: 5px;
+}
